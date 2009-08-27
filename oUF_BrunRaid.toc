@@ -1,0 +1,8 @@
+## Interface: 30200
+## Title: oUF: |cffff8000BrunRaid|r
+## Author: bruners
+## Version: v1.1
+## Notes: Raid Frames for oUF
+## Dependencies: oUF
+
+oUF_BrunRaid.lua
